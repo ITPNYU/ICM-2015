@@ -48,7 +48,7 @@
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
     - _______________________
     - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
-- Related Reading
+- Related Reading and Resources
     - _____________________________ 
 - Downloading p5.js
    - This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
@@ -87,12 +87,8 @@ Week 3 -- Interaction
     - while
     - for
 - Modulo
-- Related Reading
+- Related Reading and Resources
     -  
-- Watch (preview next week's content)
-    -   
-- Supplemental Reading
-    - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework
 
 Week 4 -- Functions: the basics
@@ -139,9 +135,9 @@ Week 8 -- Pixels
     - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
     - Exercise: Make a mirror that paints your portrait
 - Computer vision:
-
+    -   
 - Homework: Pixels Project
-    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
         - Make a slideshow of images. Check out this [Crossfade Effect](https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels/exercise_15_11_crossfade).
         - Make a "VJ turntable" for video. Check out [Movie Scrub](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_05_MovieScrub).
