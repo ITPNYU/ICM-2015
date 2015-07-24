@@ -59,8 +59,7 @@
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
     - Some additional examples: https://github.com/shiffman/LearningProcessing-p5.js -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
 
-Week 2 -- Animation
------------------------------
+## Week 2 -- Animation
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
 - Variation: mouseX,mouseY
 - [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
@@ -76,8 +75,7 @@ Week 2 -- Animation
         - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/motion/nervous_square)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
         - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/random%20paintings).  
 
-Week 3 -- Interaction
------------------------------
+## Week 3 -- Interaction
 - [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
     - If, else if, else
     - Boolean variables
@@ -91,8 +89,7 @@ Week 3 -- Interaction
     -  
 - Homework
 
-Week 4 -- Functions: the basics
------------------------------
+## Week 4 -- Functions: the basics
 - [Functions](https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions)
     - Re-usability
     - Modularity
@@ -101,28 +98,25 @@ Week 4 -- Functions: the basics
     - Return types
     - Recursion
 
-Week 5 -- Functions: events and callbacks
-------------------------------
+## Week 5 -- Functions: events and callbacks
 - Basic DOM intro
 - callbacks with DOM elements
 - simple strings and loading data with a callback
 - serial with a callback
 
-Week 6 -- Repetition and Reproduction
------------------------------
+## Week 6 -- Repetition and Reproduction
 - [Review loops](https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops)
 - [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays)
 - [A String is like an array of characters](http://processing.org/learning/text/) 
 - reinforce serial examples by showing them in the context of strings
 - [An image is like an array of pixels](http://processing.org/learning/pixels/) 
 
-Week 7 -- Object-oriented programming
+## Week 7 -- Object-oriented programming
 - show how to add functions to object literals
 - show how to make a constructor function that "makes" objects
 - reinforce anything leftover we need for serial
 
-Week 8 -- Pixels
---------------------------------
+## Week 8 -- Pixels
 - Images
     - Load and display images
     - Writing pixels to screen
@@ -144,33 +138,30 @@ Week 8 -- Pixels
         - Use OpenCV face tracking and create a particle system that emanates from a person's mouth or eyes or. . . .?
     - Note that only the names in bold (1/2 of the class) on the wiki will present next week. The second half will present the "data" assignment the following week. You should all complete both assignments, however, and of course you can present both weeks if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
-Week 9 -- Data
------------------------------
+## Week 9 -- Data
 - Pixel project presentations.  
 - Word Counting
 - Tabular data
 - JSON and APIs (more on callbacks!)
 
-Week 10 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
------------------------------
+## Week 10 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -  Sound
 -  webgl 
 -  createGraphics
 -  p5.Vector
 -  Node and server side
+-  DOM
+-  other JavaScript frameworks: jquery, d3, etc.
 -  moving out of the IDE
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
-Week 11 --  Propose Final Projects
------------------------------
+## Week 11 --  Propose Final Projects
 - ** See your individual section's proposal schedule on your wiki **
 
-Week 12 -- One on one speed user testing / feedback
------------------------------
+## Week 12 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 13 -- Final Project Presentations
------------------------------
+## Week 13 -- Final Project Presentations
 - Please add your link to your final project documentation on your section's wiki.
 
 Mantras By James
