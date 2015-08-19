@@ -110,13 +110,12 @@
 - Homework
 
 ### 4 -- Functions: the basics
-- [Functions](https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions)
-    - Re-usability
-    - Modularity
-    - Calling vs. defining
-    - Arguments and parameters
-    - Return types
-    - Recursion
+- Re-usability
+- Modularity
+- Calling vs. defining
+- Arguments and parameters
+- Return types
+- Recursion
 
 ### 5 -- Functions: events and callbacks
 - Make some DOM eleements
