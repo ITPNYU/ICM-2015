@@ -4,7 +4,24 @@ Each section of ICM meets for 14 sessions.  However, in order to stagger final p
 
 Also, note that Friday, October ____, all classes will meet together for one larger "synthesis" workshop.  Details will be provided in class.
 
+Bolded are classes that differ from normal ITP weekly schedule.
+
 ## Tuesday Schedule (Roopa, Shiffman)
+1. Tues, Sep. 8
+**2. Fri, Sep. 11**
+3. Tues, Sep. 15
+4. Tues, Sep. 22
+5. Tues, Sep. 29
+**6. Fri, Oct. 2**
+7. Tues, Oct 6
+**8. Fri, Oct. 16**
+9. Tues, Oct. 20
+10. Tues, Oct. 27
+11. Tues, Nov. 3 
+12. Tues, Nov. 10 
+13. Tues, Nov. 17
+- **No class Tues, Nov 24!**
+14. Tues, Dec. 1 
 
 ## Wednesday Schedule (Shawn, Dano, Shiffman)
 
