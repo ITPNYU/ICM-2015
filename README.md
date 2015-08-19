@@ -32,7 +32,7 @@
 
 # Introduction to Computational Media Syllabus
 
-## Week 1 -- Introduction and Drawing
+## 1 -- Introduction and Drawing
 * What is computational media?
   * What is programming?
   * How can I apply programming to _____________?
@@ -49,8 +49,10 @@
   * Landscape of HTML, CSS, and JavaScript
   * Other JS frameworks
   * Server-side vs. client-side
-* Participating in an open-source communitt
+* Participating in an open-source community
   * What are git and github?
+  * When should you post to a forum vs. file a github issue?
+  * Who makes these things?
 * Getting started, your first program
   * Drawing with numbers
   * Screen coordinates
@@ -70,11 +72,12 @@
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
 
-## Week 2 -- Animation
+## 2 -- Animation
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
 - Variation: mouseX,mouseY
 - [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
 - JavaScript objects
+- Array basics
 - [random()](http://p5js.org/reference/#random)
 - [map()](http://p5js.org/reference/#map) 
 - Related Reading
@@ -86,7 +89,7 @@
         - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/motion/nervous_square)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
         - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/random%20paintings).  
 
-## Week 3 -- Interaction
+## 3 -- Interaction
 - [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
     - If, else if, else
     - Boolean variables
@@ -95,12 +98,13 @@
 - [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
     - while
     - for
+    - looping through an array
 - Modulo
 - Related Reading and Resources
     -  
 - Homework
 
-## Week 4 -- Functions: the basics
+## 4 -- Functions: the basics
 - [Functions](https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions)
     - Re-usability
     - Modularity
@@ -109,70 +113,60 @@
     - Return types
     - Recursion
 
-## Week 5 -- Functions: events and callbacks
-- Basic DOM intro
-- callbacks with DOM elements
-- simple strings and loading data with a callback
-- serial with a callback
+## 5 -- Functions: events and callbacks
+- Make some DOM eleements
+- Callbacks with DOM elements
+- Get data in via serial with a callback
 
-## Week 6 -- Repetition and Reproduction
+## 6 -- Synthesis
+- Description TBA
+
 - [Review loops](https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops)
 - [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays)
 - [A String is like an array of characters](http://processing.org/learning/text/) 
 - reinforce serial examples by showing them in the context of strings
 - [An image is like an array of pixels](http://processing.org/learning/pixels/) 
 
-## Week 7 -- Object-oriented programming
+## 7 -- More on objects and arrays
 - show how to add functions to object literals
 - show how to make a constructor function that "makes" objects
-- reinforce anything leftover we need for serial
+- Make a particle system
+- String objects in the context of serial
 
-## Week 8 -- Pixels
-- Images
-    - Load and display images
-    - Writing pixels to screen
-    - Reading image pixels, image processing: brightness, threshold, etc
-    - [Chapter 15 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
-    - In class exercise: make an interactive image processing filter
-- Video: 
-    - Live video (Capture) and movie playback (Movie)
-    - Drawing shapes on screen colored by pixels
-    - [Chapter 16 examples](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
-    - Exercise: Make a mirror that paints your portrait
-- Computer vision:
-    -   
-- Homework: Pixels Project
-    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
-        - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
-        - Make a slideshow of images. Check out this [Crossfade Effect](https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels/exercise_15_11_crossfade).
-        - Make a "VJ turntable" for video. Check out [Movie Scrub](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_05_MovieScrub).
-        - Use OpenCV face tracking and create a particle system that emanates from a person's mouth or eyes or. . . .?
-    - Note that only the names in bold (1/2 of the class) on the wiki will present next week. The second half will present the "data" assignment the following week. You should all complete both assignments, however, and of course you can present both weeks if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
-
-## Week 9 -- Data
-- Pixel project presentations.  
+## 8 -- Data
+- JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
-- JSON and APIs (more on callbacks!)
 
-## Week 10 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
--  Sound
--  webgl 
--  createGraphics
--  p5.Vector
--  Node and server side
--  DOM
--  other JavaScript frameworks: jquery, d3, etc.
--  moving out of the IDE
+## 9 -- Mobile
+- Workflow and process, get a previous sketch running on a device
+- Touch interaction
+- sensors
+
+## 10 -- Video
+- Live capture
+- Movie playback
+- A bit on pixels
+- A bit on computer vision
+
+## 11 -- Revelation
+- moving out of the IDE
+- HTML/CSS itself
+- other JavaScript frameworks: jquery, d3, etc.
+- webgl 
+- Node and server side
+- Open source
+  - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
+  - How do you  get involved with this?
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
-## Week 11 --  Propose Final Projects
+## 12 --  Propose Final Projects
 - ** See your individual section's proposal schedule on your wiki **
 
-## Week 12 -- One on one speed user testing / feedback
+## 13 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-## Week 13 -- Final Project Presentations
+## 14 -- Final Project Presentations
 - Please add your link to your final project documentation on your section's wiki.
 
 Mantras By James
