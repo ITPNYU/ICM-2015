@@ -3,7 +3,6 @@
 ## Listserv
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
-
 ## p5.js
 - [p5.js](http://www.p5js.org/).  This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
 
@@ -34,30 +33,42 @@
 # Introduction to Computational Media Syllabus
 
 ## Week 1 -- Introduction and Drawing
-- Why are we here? What is computational media?  What is programming? What is it good for? What kinds of programming languages are there?
-- Algorithmic Thinking
-- What is p5.js?  Why p5.js?
-- Server-side vs. client programming
-- Things made with p5.js (link TK)
-- Drawing with numbers
-- Screen coordinates
-- Shape and color functions
-- [p5.js reference](http://p5js.org/reference)
-- Uploading your sketch
-- Watch
+* What is computational media?
+  * What is programming?
+  * How can I apply programming to _____________?
+  * As a ____________, why would I want or need to write software?
+  * [Example projects](https://github.com/ITPNYU/ICM-2015/wiki/Projects).
+* Programming language discussion
+  * General discussion of programming languages
+  * History of creative coding frameworks
+      * Processing and p5.js (and what's processing.js?)
+      * openframeworks, cinder
+      * max/msp dataflow programming
+      * How does arduino fit in?
+* p5.js in the context of the browser
+  * Landscape of HTML, CSS, and JavaScript
+  * Other JS frameworks
+  * Server-side vs. client-side
+* Participating in an open-source communitt
+  * What are git and github?
+* Getting started, your first program
+  * Drawing with numbers
+  * Screen coordinates
+  * Shape and color functions
+  * Downloading p5.js
+   * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+  * [p5.js reference](http://p5js.org/reference)
+* Uploading your sketch
+* Watch (optional)
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
-    - _______________________
     - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
-- Related Reading and Resources
-    - _____________________________ 
-- Downloading p5.js
-   - This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+- Related Reading and Resources (optional)
+  * insert reading here?
 - Homework
     - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
-    - Some additional examples: https://github.com/shiffman/LearningProcessing-p5.js -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
 
 ## Week 2 -- Animation
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
