@@ -89,8 +89,6 @@
 - [map()](http://p5js.org/reference/#map) 
 - Related Reading
    - 
-- Watch (previews next week's content)
-   - 
 - Homework
     - Create a animated application. Start over from scratch and build something with a very simple design. Focus on the logic of variables and avoid using hard-coded values. Play with mouseX and mouseY.  Start by working in pairs (according to list below).   You can post together or break off and complete the assignment individually.  If you are stuck, here are some ideas.
         - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/motion/nervous_square)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
@@ -107,7 +105,7 @@
     - for
     - looping through an array
 - Modulo
-- Related Reading and Resources
+- Related Reading
     -  
 - Homework
 
@@ -127,12 +125,6 @@
 
 ### 6 -- Synthesis
 - Description TBA
-
-- [Review loops](https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops)
-- [Arrays](https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays)
-- [A String is like an array of characters](http://processing.org/learning/text/) 
-- reinforce serial examples by showing them in the context of strings
-- [An image is like an array of pixels](http://processing.org/learning/pixels/) 
 
 ### 7 -- More on objects and arrays
 - show how to add functions to object literals

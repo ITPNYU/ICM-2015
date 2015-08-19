@@ -25,4 +25,4 @@ Bolded are classes that differ from normal ITP weekly schedule.
 
 ## Wednesday Schedule (Shawn, Dano, Shiffman)
 
-## Thursday Schedule (Lauren, Dano)
+## Thursday Schedule (Lauren, Lauren)
