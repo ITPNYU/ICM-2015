@@ -12,7 +12,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 3. Tues, Sep. 15
 4. Tues, Sep. 22
 5. Tues, Sep. 29
-6. **Fri, Oct. 2** (Time is 11am-2pm!)
+6. **Fri, Oct. 2 (Time is 11am-2pm!)**
 7. Tues, Oct 6
 8. **Fri, Oct. 16**
 9. Tues, Oct. 20
@@ -20,7 +20,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 11. Tues, Nov. 3 
 12. Tues, Nov. 10 
 13. Tues, Nov. 17
-- **No class Tues, Nov 24!**
+**No class Tues, Nov 24!**
 14. Tues, Dec. 1 
 
 ## Wednesday Schedule (Shawn, Dano, Shiffman)
