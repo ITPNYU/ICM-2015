@@ -37,9 +37,9 @@
 - [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
 - [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
 
-# Introduction to Computational Media Syllabus
+## Syllabus
 
-## 1 -- Introduction and Drawing
+### 1 -- Introduction and Drawing
 * What is computational media?
   * What is programming?
   * How can I apply programming to _____________?
@@ -79,7 +79,7 @@
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
 
-## 2 -- Animation
+### 2 -- Animation
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
 - Variation: mouseX,mouseY
 - [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
@@ -96,7 +96,7 @@
         - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/motion/nervous_square)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
         - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/random%20paintings).  
 
-## 3 -- Interaction
+### 3 -- Interaction
 - [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
     - If, else if, else
     - Boolean variables
@@ -111,7 +111,7 @@
     -  
 - Homework
 
-## 4 -- Functions: the basics
+### 4 -- Functions: the basics
 - [Functions](https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions)
     - Re-usability
     - Modularity
@@ -120,12 +120,12 @@
     - Return types
     - Recursion
 
-## 5 -- Functions: events and callbacks
+### 5 -- Functions: events and callbacks
 - Make some DOM eleements
 - Callbacks with DOM elements
 - Get data in via serial with a callback
 
-## 6 -- Synthesis
+### 6 -- Synthesis
 - Description TBA
 
 - [Review loops](https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops)
@@ -134,29 +134,29 @@
 - reinforce serial examples by showing them in the context of strings
 - [An image is like an array of pixels](http://processing.org/learning/pixels/) 
 
-## 7 -- More on objects and arrays
+### 7 -- More on objects and arrays
 - show how to add functions to object literals
 - show how to make a constructor function that "makes" objects
 - Make a particle system
 - String objects in the context of serial
 
-## 8 -- Data
+### 8 -- Data
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
 
-## 9 -- Mobile
+### 9 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - sensors
 
-## 10 -- Video
+### 10 -- Video
 - Live capture
 - Movie playback
 - A bit on pixels
 - A bit on computer vision
 
-## 11 -- Revelation
+### 11 -- Revelation
 - moving out of the IDE
 - HTML/CSS itself
 - other JavaScript frameworks: jquery, d3, etc.
@@ -167,13 +167,13 @@
   - How do you  get involved with this?
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
-## 12 --  Propose Final Projects
+### 12 --  Propose Final Projects
 - ** See your individual section's proposal schedule on your wiki **
 
-## 13 -- One on one speed user testing / feedback
+### 13 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-## 14 -- Final Project Presentations
+### 14 -- Final Project Presentations
 - Please add your link to your final project documentation on your section's wiki.
 
 Mantras By James
