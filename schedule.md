@@ -8,4 +8,4 @@ Also, note that Friday, October ____, all classes will meet together for one lar
 
 ## Wednesday Schedule (Shawn, Dano, Shiffman)
 
-## Thursday Schedule (Lauren, Dano)
+## Thursday Schedule (Lauren, Lauren)
