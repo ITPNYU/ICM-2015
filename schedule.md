@@ -8,13 +8,13 @@ Bolded are classes that differ from normal ITP weekly schedule.
 
 ## Tuesday Schedule (Roopa, Shiffman)
 1. Tues, Sep. 8
-**2. Fri, Sep. 11**
+2. **Fri, Sep. 11**
 3. Tues, Sep. 15
 4. Tues, Sep. 22
 5. Tues, Sep. 29
-**6. Fri, Oct. 2**
+6. **Fri, Oct. 2** (Time is 11am-2pm!)
 7. Tues, Oct 6
-**8. Fri, Oct. 16**
+8. **Fri, Oct. 16**
 9. Tues, Oct. 20
 10. Tues, Oct. 27
 11. Tues, Nov. 3 
