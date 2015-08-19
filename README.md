@@ -78,6 +78,9 @@
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
+ - Optional reading:
+   - [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
+   - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 
 ### 2 -- Animation
 - [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
@@ -135,6 +138,9 @@
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
+- Optional Reading:
+  - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
+  - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
 ### 9 -- Mobile
 - Workflow and process, get a previous sketch running on a device
