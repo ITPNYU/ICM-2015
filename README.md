@@ -7,20 +7,27 @@
 - [p5.js](http://www.p5js.org/).  This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
 
 ## Homework Wikis
-* TK!
+- Roopa, Tuesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
+- Shiffman, Tuesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
+- Shiffman, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
+- Dano, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday)
+- Shawn, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
+- Lauren, Thursday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-1)
+- Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-2)
 
 ## Videos
-- TK!
+- [There are many videos](https://vimeo.com/channels/introcompmedia) from last year's ICM you could watch.  However, these videos use [Processing](http://processing.org) rather than [p5.js](http://p5js.org) so they will be much less relevant after the 0.x and 1.x chapters.  New videos are forthcoming!
 
 ## Books 
-- TK!
+- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
+- If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
 ## Extra Help 
 - [Research Resident Office Hours](https://itp.nyu.edu/inwiki/)
 - ICM Help Session
 
 ## Inspirational Projects
-- TK!
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2015/wiki/Projects)
 
 ## Resources
 - [Official p5.js website](http://www.p5js.org/)
