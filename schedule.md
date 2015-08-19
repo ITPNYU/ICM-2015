@@ -20,8 +20,10 @@ Bolded are classes that differ from normal ITP weekly schedule.
 11. Tues, Nov. 3 
 12. Tues, Nov. 10 
 13. Tues, Nov. 17
-**No class Tues, Nov 24!**
 14. Tues, Dec. 1 
+
+**Note class does not meet Thanksgiving week Tuesday, Nov 24!**
+
 
 ## Wednesday Schedule (Shawn, Dano, Shiffman)
 
