@@ -68,16 +68,14 @@
    * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
 * Uploading your sketch
-* Watch (optional)
-    - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
-    - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
-- Related Reading and Resources (optional)
-  * insert reading here?
 - Homework
-    - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
-    - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
-    - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
-    - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
+  - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
+  - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
+  - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
+  - Post link to your documentation and sketch on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
+  - Optional viewing
+   - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
+   - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
  - Optional reading:
    - [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
    - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
