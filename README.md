@@ -117,6 +117,8 @@
 - Arguments and parameters
 - Return types
 - Recursion
+- Optional Readings:
+  - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
 ### 5 -- Functions: events and callbacks
 - Make some DOM eleements
