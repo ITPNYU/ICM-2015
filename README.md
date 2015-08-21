@@ -60,6 +60,7 @@
   * What are git and github?
   * When should you post to a forum vs. file a github issue?
   * Who makes these things?
+  * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
   * Drawing with numbers
   * Screen coordinates
