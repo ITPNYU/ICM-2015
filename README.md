@@ -32,9 +32,10 @@
 ## Resources
 
 ### Debugging
-* [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
+* [A Brief Intro to Debugging](http://vimeo.com/channels/debugging) Video Series
+* [p5.js debugging tutorial]()
 
-### p5.js
+### p5.js Resources
 * [p5.js reference](http://p5js.org/reference)
 * [p5.js forum](http://forum.processing.org/two/)
 * [p5.js tutorials](http://p5js.org/tutorials/)
@@ -70,7 +71,7 @@
 * [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
 * [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
 
-##Tools
+### Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
 * [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands) - We'll be using the command line regularly in this class. Nothing too fancy; just the basics. Get familiar, at the very least, with the commands `ls`, `cd`, and `mkdir`. 
 * Checking code: [JSLint](http://www.jslint.com/) / [JSHint](http://www.jshint.com)
