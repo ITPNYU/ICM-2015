@@ -30,15 +30,11 @@
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2015/wiki/Projects)
 
 ## Resources
-- [Official p5.js website](http://www.p5js.org/)
-- [p5.js forum](http://forum.processing.org/two/categories/p5-js)
-- [p5.js twitter](https://twitter.com/p5xjs)
-- [Processing Foundation github](https://github.com/processing)
-- [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
-- [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
-- 
 
-###p5.js
+### Debugging
+* [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
+
+### p5.js
 * [p5.js reference](http://p5js.org/reference)
 * [p5.js forum](http://forum.processing.org/two/)
 * [p5.js tutorials](http://p5js.org/tutorials/)
@@ -71,6 +67,8 @@
 * [lynda.com](http://www.nyu.edu/lynda) - lots of great tutorials here. Log in with your normal nyu net-id/password for full access.
 * [Codecademy](http://www.codecademy.com/)
 * [Flat Iron School](http://prework.flatironschool.com/web-development/)
+* [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)
+* [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
 
 ##Tools
 * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more!
