@@ -30,6 +30,11 @@
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2015/wiki/Projects)
 
 ## Resources
+- [p5.js reference](http://p5js.org/reference)
+* [p5.js forum](http://forum.processing.org/two/)
+* [p5.js tutorials](http://p5js.org/tutorials/)
+* [Getting Started with p5.js](http://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) - O'Reilly book
+* [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
 - There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2015/wiki/Resources).
 
 ## Syllabus
@@ -63,7 +68,7 @@
   * Downloading p5.js
    * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
-* Uploading your sketch
+* [Uploading your sketch]()
 - Homework
   - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
   - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
