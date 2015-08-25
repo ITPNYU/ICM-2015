@@ -4,7 +4,7 @@
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
 ## p5.js
-- [p5.js](http://www.p5js.org/).  This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+- This year we are using [p5.js](http://www.p5js.org/), a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
 
 ## Homework Wikis
 - Roopa, Tuesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
