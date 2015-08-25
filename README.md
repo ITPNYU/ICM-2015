@@ -68,7 +68,7 @@
   * Downloading p5.js
    * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
-* [Uploading your sketch]()
+* [Uploading your sketch](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
 - Homework
   - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
   - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
@@ -83,11 +83,13 @@
      - [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 
 ### 2 -- Animation
-- [The flow: code blocks, setup, draw, and events](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp03_flow)
-- Variation: mouseX,mouseY
-- [Variables: Declare, Initialize, Use](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
-- JavaScript objects
-- Array basics
+- Program flow (what's a function?)
+  - setup, draw, and other events
+- Variation
+  - start with mouseX and mouseY
+  - make your own variables (numbers and strings)
+  - JS objects (variables inside variables)
+  - JS arrays (lists of variables)
 - [random()](http://p5js.org/reference/#random)
 - [map()](http://p5js.org/reference/#map) 
 - Related Reading
@@ -123,18 +125,26 @@
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
 ### 5 -- Functions: events and callbacks
-- Make some DOM eleements
-- Callbacks with DOM elements
-- Get data in via serial with a callback
+- Review events -- mousePressed, keyPressed
+- DOM elements
+    - `createP()`
+    - `createButton()` 
+    - `createSlider()`
+- Callbacks
+    - `button.mousePressed(callback);` 
+- Serial input with a callback 
 
 ### 6 -- Synthesis
 - Description TBA
 
-### 7 -- More on objects and arrays
-- show how to add functions to object literals
-- show how to make a constructor function that "makes" objects
-- Make a particle system
-- String objects in the context of serial
+### 7 -- More on objects, arrays, and strings
+- Objects
+    - JS objects with methods
+    - Making JS objects via a "constructor" function
+    - Example: Make a particle system
+- Strings
+    - String basics
+    - Look at Strings in context of Serial input
 
 ### 8 -- Data
 - JSON and APIs (and more on callbacks!)
@@ -147,7 +157,7 @@
 ### 9 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
-- sensors
+- Sensors
 
 ### 10 -- Video
 - Live capture
