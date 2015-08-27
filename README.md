@@ -93,6 +93,7 @@
   - JS objects (variables inside variables)
 - [random()](http://p5js.org/reference/#/p5/random)
 - [map()](http://p5js.org/reference/#/p5/map) 
+- loading images
 - Related Reading
    - 
 - Homework
