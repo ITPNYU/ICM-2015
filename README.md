@@ -56,6 +56,7 @@
   * Landscape of HTML, CSS, and JavaScript
   * Other JS frameworks
   * Server-side vs. client-side
+  * What is the difference between p5 and JavaScript?
 * Participating in an open-source community
   * What are git and github?
   * When should you post to a forum vs. file a github issue?
