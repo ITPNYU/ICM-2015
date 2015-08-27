@@ -158,11 +158,10 @@
 - Sensors
 - Mobile Assignment
 
-### 9 -- Video
+### 9 -- Video and Sound
+- Sound
 - Live capture
 - Movie playback
-- A bit on pixels
-- A bit on computer vision
 - Video Assignment
 
 ### 10 -- More on objects / Particle System
