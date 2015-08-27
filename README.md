@@ -116,7 +116,7 @@
 - Related Reading
     -  
 - Homework
-    - 
+    - TBA, an exercise around building your own interface from scratch
 
 ### 4 -- Functions: the basics
 - Re-usability
@@ -127,7 +127,7 @@
 - Recursion
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
-- Homework: TBA (But the gist is "use functions!")
+- Homework: TBA (but something like use a function to draw a design different ways, multiple times.  Make a previous sketch modular.)
 
 ### 5 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
@@ -138,10 +138,10 @@
 - Callbacks
     - `button.mousePressed(callback);` 
 - `style()` -- low key intro to CSS
-- Homework: TBA, do something with DOM
+- Homework: TBA, do something with DOM, compare interface elements to how you did your own week 3
 
 ### 6 -- Synthesis
-- Serial input with a callback 
+- Serial input with a callback workshop
 - "One button experience" exercise
 
 ### 7 -- Data
