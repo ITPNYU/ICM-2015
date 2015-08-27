@@ -65,6 +65,7 @@
   * Drawing with numbers
   * Screen coordinates
   * Shape and color functions
+  * setup() and draw()
   * Downloading p5.js
    * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
