@@ -126,7 +126,7 @@
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
-### 5 -- Functions: events and callbacks
+### 5 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
 - DOM elements
     - `createP()`
@@ -134,27 +134,28 @@
     - `createSlider()`
 - Callbacks
     - `button.mousePressed(callback);` 
-- Serial input with a callback 
+- `style()` -- low key intro to CSS
 
 ### 6 -- Synthesis
-- Description TBA
+- Serial input with a callback 
+- "One button experience" exercise
+- Homework: blog post about Friday
 
-### 7 -- More on objects, arrays, and strings
+### 7 -- Data
+- arrays
+- JSON and APIs (and more on callbacks!)
+- Word Counting
+- Tabular data
+- Serial as string data
+- Optional Reading:
+  - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
+  - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
+
+### 8 -- More on objects / Particle System
 - Objects
     - JS objects with methods
     - Making JS objects via a "constructor" function
     - Example: Make a particle system
-- Strings
-    - String basics
-    - Look at Strings in context of Serial input
-
-### 8 -- Data
-- JSON and APIs (and more on callbacks!)
-- Word Counting
-- Tabular data
-- Optional Reading:
-  - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
-  - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
 ### 9 -- Mobile
 - Workflow and process, get a previous sketch running on a device
