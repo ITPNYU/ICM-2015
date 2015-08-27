@@ -91,7 +91,6 @@
   - start with mouseX and mouseY
   - make your own variables (numbers and strings)
   - JS objects (variables inside variables)
-  - JS arrays (lists of variables)
 - [random()](http://p5js.org/reference/#random)
 - [map()](http://p5js.org/reference/#map) 
 - Related Reading
