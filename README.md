@@ -116,6 +116,7 @@
 - Related Reading
     -  
 - Homework
+    - 
 
 ### 4 -- Functions: the basics
 - Re-usability
@@ -126,6 +127,7 @@
 - Recursion
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
+- Homework: TBA (But the gist is "use functions!")
 
 ### 5 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
@@ -147,23 +149,24 @@
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
-- Serial as string data
+- Serial with strings
 - Optional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-- Data Assignment
+- Data Assignment (#1)
+  -  This week and the next two weeks are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete all assignments but only 1/3rd will present each week.   
 
 ### 8 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
-- Mobile Assignment
+- Mobile Assignment (#2)
 
 ### 9 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
-- Video Assignment
+- Video Assignment (#3)
 
 ### 10 -- More on objects / Particle System
 - Objects
@@ -181,7 +184,7 @@
   - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
   - How do you  get involved with this?
 
-### 12 --  Other topics + Final Project Proposals
+### 12 -- Other topics? + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
 - Other bonus topics?
    - webgl 
@@ -192,6 +195,27 @@
 
 ### 14 -- Final Project Presentations
 - Please add your link to your final project documentation on your section's wiki.
+
+
+# Policies
+
+##Evaluation
+
+Grades will be determined according to the following breakdown:
+* Regular Assignments 40%
+* Participation and Attendance 40%
+* Final Project 20%
+
+Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
+
+We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. It is expected that everyone in the class will create and maintain a blog for their assignments.
+
+Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
+
+This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
+
+Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 20% of your grade.
+
 
 Mantras By James
 ----------------
