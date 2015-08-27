@@ -182,7 +182,7 @@
   - How do you  get involved with this?
 
 ### 12 --  Other topics + Final Project Proposals
-- ** See your individual section's proposal schedule on your wiki **
+- **See your individual section's proposal schedule on your wiki**
 - Other bonus topics?
    - webgl 
    - What is server side programming?
