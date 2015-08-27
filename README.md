@@ -135,11 +135,11 @@
 - Callbacks
     - `button.mousePressed(callback);` 
 - `style()` -- low key intro to CSS
+- Homework: TBA, do something with DOM
 
 ### 6 -- Synthesis
 - Serial input with a callback 
 - "One button experience" exercise
-- Homework: blog post about Friday
 
 ### 7 -- Data
 - arrays
@@ -150,37 +150,42 @@
 - Optional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
+- Data Assignment
 
-### 8 -- More on objects / Particle System
-- Objects
-    - JS objects with methods
-    - Making JS objects via a "constructor" function
-    - Example: Make a particle system
-
-### 9 -- Mobile
+### 8 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
+- Mobile Assignment
 
-### 10 -- Video
+### 9 -- Video
 - Live capture
 - Movie playback
 - A bit on pixels
 - A bit on computer vision
+- Video Assignment
 
-### 11 -- Revelation
+### 10 -- More on objects / Particle System
+- Objects
+    - JS objects with methods
+    - Making JS objects via a "constructor" function
+    - Example: Make a particle system
+- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
+
+### 11 -- Revelation + Final Project Proposals
+- **See your individual section's proposal schedule on your wiki**
 - moving out of the IDE
 - HTML/CSS itself
 - other JavaScript frameworks: jquery, d3, etc.
-- webgl 
-- Node and server side
 - Open source
   - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
   - How do you  get involved with this?
-- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
-### 12 --  Propose Final Projects
+### 12 --  Other topics + Final Project Proposals
 - ** See your individual section's proposal schedule on your wiki **
+- Other bonus topics?
+   - webgl 
+   - What is server side programming?
 
 ### 13 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
