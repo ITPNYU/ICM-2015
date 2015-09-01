@@ -6,6 +6,9 @@
 ## p5.js
 - This year we are using [p5.js](http://www.p5js.org/), a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
 
+## Section specific info
+* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2015/blob/master/sections.md)
+
 ## Homework Wikis
 - Roopa, Tuesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
 - Shiffman, Tuesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
