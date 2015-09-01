@@ -12,8 +12,8 @@
 - Shiffman, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
 - Dano, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday)
 - Shawn, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
-- Lauren, Thursday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-1)
-- Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-2)
+- Lauren, Thursday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)
+- Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)
 
 ## Videos
 - [There are many videos](https://vimeo.com/channels/introcompmedia) from last year's ICM you could watch.  However, these videos use [Processing](http://processing.org) rather than [p5.js](http://p5js.org) so they will be much less relevant after the 0.x and 1.x chapters.  New videos are forthcoming!
