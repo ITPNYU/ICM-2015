@@ -6,7 +6,7 @@
   * [Thursday, 3:20-5:50pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)  
   * [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy), Room 455
 * Roopa
-- [Tuesday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
+  * [Tuesday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
 * Shawn
   * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
 * Shiffman
