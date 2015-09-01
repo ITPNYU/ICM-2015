@@ -9,6 +9,8 @@
   * [Tuesday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
 * Shawn
   * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
+  * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
+  * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Shiffman
   * [Tuesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
   * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
