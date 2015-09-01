@@ -19,7 +19,9 @@
 - Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)
 
 ## Videos
-- [There are many videos](https://vimeo.com/channels/introcompmedia) from last year's ICM you could watch.  However, these videos use [Processing](http://processing.org) rather than [p5.js](http://p5js.org) so they will be much less relevant after the 0.x and 1.x chapters.  New videos are forthcoming!
+- [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) -- coming soon!
+- [Shiffman Vimeo channel](https://vimeo.com/channels/learningp5js/) -- no ads
+- [Shiffman Youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) -- has ads
 
 ## Books 
 - [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
