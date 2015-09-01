@@ -40,6 +40,9 @@ Bolded are classes that differ from normal ITP weekly schedule.
 14. Wed, 12/2
 
 ## Thursday Schedule (Lauren, Lauren)
+
+[Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy), Room 455
+
 1. Thurs, 9/3
 2. Thurs, 9/10
 3. Thurs, 9/17
