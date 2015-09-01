@@ -83,7 +83,7 @@
   - Post link to your documentation and sketch on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
   - Optional viewing
      - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
-     - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
+     - [Introductory p5.js videos](https://vimeo.com/channels/learningp5js/)
  - Optional reading:
      - [FORM+CODE: Introduction and What is Code?](http://formandcode.com) 
      - [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
