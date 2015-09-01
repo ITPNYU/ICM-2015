@@ -48,7 +48,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 6. **Fri, 10/2 (11am-2pm!)**
 7. Thurs, 10/8
 8. Thurs, 10/15
-9. Thurs, 10/22
+9. **Mon, 10/26 (12:10pm or 3:20pm)**
 10. Thurs, 10/29
 11. Thurs, 11/5
 12. Thurs, 11/12
