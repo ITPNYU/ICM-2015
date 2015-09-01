@@ -53,7 +53,7 @@
 * Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
-      * Processing and p5.js (and what's processing.js?)
+      * Processing and p5.js (and what's processing.js?): [What is p5.js video](https://vimeo.com/channels/learningp5js/137979313)
       * openframeworks, cinder
       * max/msp dataflow programming
       * How does arduino fit in?
@@ -69,12 +69,11 @@
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
   * [Download Examples](https://github.com/ITPNYU/ICM-2015/raw/master/01_drawing/01_drawing.zip)
-  * Drawing with numbers
-  * Screen coordinates
-  * Shape and color functions
-  * setup() and draw()
+  * Drawing with numbers: [video tutorial](https://vimeo.com/channels/learningp5js/137979314)
+  * Shape and color functions: [video tutorial](https://vimeo.com/channels/learningp5js/137979312)
+  * `setup()` and `draw()`
   * Downloading p5.js
-   * This year we are using a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+   * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
 * [Uploading your sketch](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
 - Homework
@@ -83,9 +82,6 @@
   - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
   - Post link to your documentation and sketch on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
   - Optional viewing
-     - [What is p5.js](https://vimeo.com/channels/learningp5js/137979313)
-     - [Drawing in p5.js](https://vimeo.com/channels/learningp5js/137979314)
-     - [Color in p5.js](https://vimeo.com/channels/learningp5js/137979312)
      - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
      - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
  - Optional reading:
