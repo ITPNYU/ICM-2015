@@ -1,8 +1,25 @@
+# Section info
+* Dano
+  - [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday)
+* Lauren
+  * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)  
+  * [Thursday, 3:20-5:50pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)  
+  * [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy), Room 455
+* Roopa
+- [Tuesday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
+* Shawn
+  * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
+* Shiffman
+  * [Tuesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
+  * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
+  * Contact: daniel dot shiffman at nyu dot edu
+  * [Shiffman office hours](https://itp.nyu.edu/inwiki/Signup/Shiffman)
+
 # ICM 2015 Schedule
 
 Each section of ICM meets for 14 sessions.  However, in order to stagger final presentations (one week before physical computing) as well as keep all sections (Tuesday, Wednesday, and Thursday) in sync each week, there will be some slight adjustments from the usual "once-per-week" meeting.  The Tuesday sections have the most unorthodox schedule.  
 
-Also, note that Friday, October ____, all classes will meet together for one larger "synthesis" workshop.  Details will be provided in class.
+Also, note that Friday, October 2nd, all classes will meet together for one larger "synthesis" workshop.  The class will meet from **11am to 2pm**.
 
 Bolded are classes that differ from normal ITP weekly schedule.
 
@@ -40,9 +57,6 @@ Bolded are classes that differ from normal ITP weekly schedule.
 14. Wed, 12/2
 
 ## Thursday Schedule (Lauren, Lauren)
-
-[Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy), Room 455
-
 1. Thurs, 9/3
 2. Thurs, 9/10
 3. Thurs, 9/17
