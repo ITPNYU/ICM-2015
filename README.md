@@ -6,17 +6,22 @@
 ## p5.js
 - This year we are using [p5.js](http://www.p5js.org/), a new JavaScript framework for ICM.  Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
 
+## Section specific info
+* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2015/blob/master/sections.md)
+
 ## Homework Wikis
 - Roopa, Tuesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
 - Shiffman, Tuesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
 - Shiffman, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
 - Dano, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday)
 - Shawn, Wednesday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
-- Lauren, Thursday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-1)
-- Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren-Thursday-2)
+- Lauren, Thursday, 12:10-2:40pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)
+- Lauren, Thursday, 3:20-5:50pm: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)
 
 ## Videos
-- [There are many videos](https://vimeo.com/channels/introcompmedia) from last year's ICM you could watch.  However, these videos use [Processing](http://processing.org) rather than [p5.js](http://p5js.org) so they will be much less relevant after the 0.x and 1.x chapters.  New videos are forthcoming!
+- [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) -- coming soon!
+- [Shiffman Vimeo channel](https://vimeo.com/channels/learningp5js/) -- no ads
+- [Shiffman Youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) -- has ads
 
 ## Books 
 - [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
@@ -39,7 +44,7 @@
 
 ## Syllabus
 
-### 1 -- Introduction and Drawing
+### 1 -- [Introduction and Drawing](https://github.com/ITPNYU/ICM-2015/raw/master/01_drawing/01_drawing.zip)
 * What is computational media?
   * What is programming?
   * How can I apply programming to _____________?
@@ -63,6 +68,7 @@
   * Who makes these things?
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
+  * [Download Examples](https://github.com/ITPNYU/ICM-2015/raw/master/01_drawing/01_drawing.zip)
   * Drawing with numbers
   * Screen coordinates
   * Shape and color functions
@@ -77,6 +83,9 @@
   - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use createCanvas() to specify the dimensions of your window.
   - Post link to your documentation and sketch on your [section's wiki](https://github.com/ITPNYU/ICM-2015/wiki).  Follow the guidelines provided on the wiki.
   - Optional viewing
+     - [What is p5.js](https://vimeo.com/channels/learningp5js/137979313)
+     - [Drawing in p5.js](https://vimeo.com/channels/learningp5js/137979314)
+     - [Color in p5.js](https://vimeo.com/channels/learningp5js/137979312)
      - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
      - [Hello Processing](http://hello.processing.org/) This is a one hour introduction to Processing that summarizes the content from the first two weeks of ICM. You might choose this over the other videos this week or wait until the second week and watch.
  - Optional reading:
@@ -210,11 +219,11 @@ Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-polic
 
 We will have weekly assignments that are relevant to material from the previous class. These assignments are required and you should be prepared to show/talk about them in class. It is expected that everyone in the class will create and maintain a blog for their assignments.
 
-Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
+Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Two unexcused absences is cause for failing the class. (An unexcused lateness of 10 minutes or more is equivalent to 1/2 an absence.)
 
 This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
 
-Class will culminate final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 20% of your grade.
+Class will culminate with final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world. This will comprise 20% of your grade.
 
 
 Mantras By James
