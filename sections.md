@@ -1,6 +1,8 @@
 # Section info
 * Dano
   - [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Wednesday)
+  - [Office Hours](https://www.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
+  - Email: dan.osullivan@nyu.edu
 * Lauren
   * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)  
   * [Thursday, 3:20-5:50pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Lauren)  
