@@ -28,7 +28,7 @@
 - If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
 ## Extra Help 
-- [Research Resident Office Hours](https://itp.nyu.edu/inwiki/)
+- [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
 - ICM Help Session
 
 ## Inspirational Projects
