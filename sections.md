@@ -18,7 +18,7 @@
 * Shiffman
   * [Tuesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Tuesday)
   * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Wednesday)
-  * Contact: daniel dot shiffman at nyu dot edu
+  * Contact: daniel.shiffman@nyu.edu
   * [Shiffman office hours](https://itp.nyu.edu/inwiki/Signup/Shiffman)
 
 # ICM 2015 Schedule
