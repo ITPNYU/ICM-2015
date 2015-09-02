@@ -7,6 +7,8 @@
   * [Lauren office hours](https://itp.nyu.edu/inwiki/Signup/McCarthy), Room 455
 * Roopa
   * [Tuesday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Roopa-Tuesday)
+  * [Office Hours Signup](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY) (meet in adjunct office)
+  * Contact: [roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)
 * Shawn
   * [Wednesday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Wednesday)
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
