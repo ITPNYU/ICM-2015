@@ -91,13 +91,14 @@
 
 ### 2 -- Animation
 - Program flow (what's a function?)
-  - setup, draw, and other events
-- Variation
-  - start with mouseX and mouseY
-  - make your own variables (numbers and strings)
-  - JS objects (variables inside variables)
-- [random()](http://p5js.org/reference/#/p5/random)
-- [map()](http://p5js.org/reference/#/p5/map) 
+  - Setup, draw, and other events
+  - Variation: mouseX and mouseY
+  - [video tutorial](https://vimeo.com/channels/learningp5js/138327548)
+- More about variables
+  - make your own variables (numbers and strings), [video tutorial](https://vimeo.com/channels/learningp5js/138331676)
+  - JS objects (variables inside variables), [video tutorial](https://vimeo.com/channels/learningp5js/138327558)
+- [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://vimeo.com/channels/learningp5js/138327559)
+- [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://vimeo.com/channels/learningp5js/138331801)
 - loading images
 - Related Reading
    - 
