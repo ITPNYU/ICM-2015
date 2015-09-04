@@ -5,9 +5,13 @@
 // Example 1-5: Zoog
 function setup() {
   createCanvas(480, 270);
-  background(255);
   ellipseMode(CENTER);
   rectMode(CENTER); 
+}
+
+function draw() {
+  
+  background(255);
 
   // Body
   stroke(0);

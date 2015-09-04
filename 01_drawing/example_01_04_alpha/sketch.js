@@ -5,8 +5,12 @@
 // Example 1-4: Alpha Transparency
 function setup() {
   createCanvas(480, 270);
-  background(0);
   noStroke();
+}
+
+function draw() {
+  
+  background(0);
 
   // No fourth argument means 100% opacity.
   fill(0, 0, 255);

@@ -4,9 +4,13 @@
 
 // Example 1-3: RGB Color
 function setup() {
-  background(255);
   noStroke();
+}
 
+function draw() {
+
+  background(255);
+  
   // Bright red
   fill(255,0,0);
   ellipse(20,20,16,16);
