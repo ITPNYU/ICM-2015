@@ -76,7 +76,7 @@
    * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
   * [p5.js reference](http://p5js.org/reference)
 * [Uploading your sketch](https://github.com/ITPNYU/ICM-2015/wiki/SFTP-Tutorial)
-* Optional viewing / reading:
+* <a id="optional-1">Optional viewing / reading:</a>
   * Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
   * [Introductory p5.js videos](https://vimeo.com/channels/learningp5js/)
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com) 
