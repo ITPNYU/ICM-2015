@@ -93,13 +93,8 @@
   - JS objects (variables inside variables), [video tutorial](https://vimeo.com/channels/learningp5js/138327558)
 - [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://vimeo.com/channels/learningp5js/138327559)
 - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://vimeo.com/channels/learningp5js/138331801)
-- loading images
-- Related Reading
-   - 
-- Homework
-    - Create a animated application. Start over from scratch and build something with a very simple design. Focus on the logic of variables and avoid using hard-coded values. Play with mouseX and mouseY.  Start by working in pairs (according to list below).   You can post together or break off and complete the assignment individually.  If you are stuck, here are some ideas.
-        - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/motion/nervous_square)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
-        - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2014/tree/master/exercises-inclass/week2-variables/random%20paintings).  
+- [Simple loading and displaying image](https://github.com/ITPNYU/ICM-2015/blob/master/02_animation/02_09_images/sketch.js)
+
 
 ### 3 -- Interaction
 - [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
