@@ -105,8 +105,6 @@
 - [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
     - while
     - for
-    - array as a list of variables
-    - looping through an array
 - Modulo
 - Related Reading
     -  
