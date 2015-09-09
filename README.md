@@ -83,7 +83,7 @@
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 
-### 2 -- Animation
+### 2 -- [Animation](https://github.com/ITPNYU/ICM-2015/raw/master/02_animation/02_animation.zip)
 - Program flow (what's a function?)
   - Setup, draw, and other events
   - Variation: mouseX and mouseY
@@ -94,6 +94,7 @@
 - [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://vimeo.com/channels/learningp5js/138327559)
 - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://vimeo.com/channels/learningp5js/138331801)
 - [Simple loading and displaying image](https://github.com/ITPNYU/ICM-2015/blob/master/02_animation/02_09_images/sketch.js)
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/02_animation/02_animation.zip)
 
 
 ### 3 -- Interaction
