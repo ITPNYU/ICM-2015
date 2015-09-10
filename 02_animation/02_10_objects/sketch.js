@@ -7,7 +7,8 @@ function setup() {
 }
 
 function draw() {
-  rect(width/4, 0, width/4, ages.kate);
-  rect(2*width/4, 0, 2*width/4, ages.max);
-  rect(3*width/4, 0, 3*width/4, ages.kai);
+  background(0);
+  rect(width/4, 0, 30, ages.kate);
+  rect(2*width/4, 0, 30, ages.max);
+  rect(3*width/4, 0, 30, ages.kai);
 }

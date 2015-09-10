@@ -8,6 +8,6 @@ function setup() {
 
 function draw() {
   background(mouseY); // background color changes based on mouseY
-  rect(300, 200, mouseX, 50); // width changes based on mouseX
+  ellipse(300, 200, mouseX, 50); // width changes based on mouseX
   ellipse(mouseX, mouseY, 10, 10); // ellipse follows mouse
 }

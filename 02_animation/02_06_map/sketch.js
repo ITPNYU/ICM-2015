@@ -11,5 +11,5 @@ function draw() {
   background(g);
 
   var h = map(mouseX, 0, width, 0, 50);
-  rect(300, 200, h, 50);
+  ellipse(300, 200, h, 50);
 }
