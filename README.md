@@ -98,14 +98,17 @@
 
 
 ### 3 -- Interaction
-- [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
-    - If, else if, else
-    - Boolean variables
-    - Relational Operators, Logical Operators
-    - Buttons, rollovers, switches
-- [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
-    - while
-    - for
+- Conditional Statements
+    - Boolean expressions
+    - if statement
+    - relational operators
+    - [video tutorial](https://vimeo.com/channels/learningp5js/138935676)
+    - Case study, bouncing ball: [video tutorial](https://vimeo.com/channels/learningp5js/138935675)
+    - else, else if, and, or [video tutorial](https://vimeo.com/channels/learningp5js/138935678)
+    - buttons, rollovers, switches [video tutorial](https://vimeo.com/channels/learningp5js/138935677)
+- Loops (while and for)
+    - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
+    - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
 - Modulo
 - Related Reading
     -  
