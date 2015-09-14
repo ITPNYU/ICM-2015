@@ -7,10 +7,11 @@ function setup() {
 }
 
 function draw() {
+  background(200);
   if ((mouseX > x) && (mouseX < x + s) && (mouseY > y) && (mouseY < y + s)) {
-    background(0);
+    fill(0);
   } else {
-    background(255);
+    fill(255);
   }
   rect(x, y, s, s);
 }
