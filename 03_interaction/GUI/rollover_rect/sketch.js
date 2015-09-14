@@ -1,3 +1,6 @@
+// Rollover Rect
+// Lauren McCarthy <http://lauren-mccarthy.com>
+
 var x = 250;
 var y = 150;
 var s = 100;
