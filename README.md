@@ -97,7 +97,7 @@
 - [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/02_animation/02_animation.zip)
 
 
-### 3 -- Interaction
+### 3 -- [Interaction](https://github.com/ITPNYU/ICM-2015/raw/master/03_interaction/03_interaction.zip)
 - Conditional Statements
     - Boolean expressions
     - if statement
@@ -109,11 +109,7 @@
 - Loops (while and for)
     - while and for [video tutorial](https://vimeo.com/channels/learningp5js/139013336)
     - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
-- Modulo
-- Related Reading
-    -  
-- Homework
-    - TBA, an exercise around building your own interface from scratch
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/03_interaction/03_interaction.zip)
 
 ### 4 -- Functions: the basics
 - Re-usability
