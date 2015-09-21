@@ -1,3 +1,6 @@
+// Getting Started with p5.js
+// Lauren McCarthy, Casey Reas, Ben Fry
+
 function setup() {
   print("Ready to roll!");
   rollDice(20);

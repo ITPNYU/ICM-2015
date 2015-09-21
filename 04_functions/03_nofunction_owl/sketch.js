@@ -1,3 +1,6 @@
+// Getting Started with p5.js
+// Lauren McCarthy, Casey Reas, Ben Fry
+
 function setup() {
   createCanvas(480, 120);
 }
