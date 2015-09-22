@@ -111,7 +111,8 @@
     - nested loops [video tutorial](https://vimeo.com/channels/learningp5js/139013372)
 - [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/03_interaction/03_interaction.zip)
 
-### 4 -- Functions: the basics
+### 4 -- [Functions: the basics](https://github.com/ITPNYU/ICM-2015/raw/master/04_functions/04_functions.zip)
+- [Download Examples](https://github.com/ITPNYU/ICM-2015/raw/master/04_functions/04_functions.zip)
 - Calling vs. defining
 - Modularity: [video](https://vimeo.com/channels/learningp5js/139587733)
 - Arguments and parameters
