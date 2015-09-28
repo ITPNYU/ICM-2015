@@ -124,7 +124,17 @@
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 - Homework: TBA (but something like use a function to draw a design different ways, multiple times.  Make a previous sketch modular.)
 
-### 5 -- DOM: events and callback function
+### 5 -- Objects and Arrays
+* What is an array?
+* loops over an array
+* an array of objects
+* `push()` and resizing an array
+
+### 6 -- Synthesis
+- Serial input with a callback workshop
+- "One button experience" exercise
+
+### 7 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
 - DOM elements
     - `createP()`
@@ -135,11 +145,9 @@
 - `style()` -- low key intro to CSS
 - Homework: TBA, do something with DOM, compare interface elements to how you did your own week 3
 
-### 6 -- Synthesis
-- Serial input with a callback workshop
-- "One button experience" exercise
 
-### 7 -- Data
+
+### 8 -- Data
 - arrays
 - JSON and APIs (and more on callbacks!)
 - Word Counting
@@ -151,23 +159,17 @@
 - Data Assignment (#1)
   -  This week and the next two weeks are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete all assignments but only 1/3rd will present each week.   
 
-### 8 -- Mobile
+### 9 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
 - Mobile Assignment (#2)
 
-### 9 -- Video and Sound
+### 10 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
 - Video Assignment (#3)
-
-### 10 -- More on objects / Particle System
-- Objects
-    - JS objects with methods
-    - Making JS objects via a "constructor" function
-    - Example: Make a particle system
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 ### 11 -- Revelation + Final Project Proposals
