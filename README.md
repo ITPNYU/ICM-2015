@@ -124,11 +124,18 @@
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 - Homework: TBA (but something like use a function to draw a design different ways, multiple times.  Make a previous sketch modular.)
 
-### 5 -- Objects and Arrays
+### 5 -- [Objects and Arrays](https://github.com/ITPNYU/ICM-2015/raw/master/05_objects_arrays/05_objects_arrays.zip)
+* [download examples](https://github.com/ITPNYU/ICM-2015/raw/master/05_objects_arrays/05_objects_arrays.zip)
+* Review object literals
+  * properties - name/value pairs
+  * functions inside objects
+  * `this` keyword
 * What is an array?
-* loops over an array
-* an array of objects
-* `push()` and resizing an array
+  * declaring, intializing
+  * numeric indices
+  * `length` property
+  * `push()`
+* An array of objects!
 
 ### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
 - **Meet in the ITP Lounge**
