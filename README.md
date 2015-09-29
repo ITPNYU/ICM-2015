@@ -131,7 +131,7 @@
 * `push()` and resizing an array
 
 ### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
-- **Meet in the ITP Loung**
+- **Meet in the ITP Lounge**
 - **Bring your Arduino**
 - **[All details here](https://github.com/ITPNYU/ICM-2015/wiki/Synthesis)**
 - Serial input with a callback workshop
