@@ -12,13 +12,15 @@ function setup() {
 
 function draw() {
   background(255);
-  ellipse(x, y, diameter, diameter);
   
   // if in dragging state, update x and y to follow mouse
   if (dragging) {
     x = mouseX;
     y = mouseY;
   }
+  
+  // draw the ellipse at x,y position
+  ellipse(x, y, diameter, diameter);
 }
 
 // when mouse is pressed, check if click is inside circle
