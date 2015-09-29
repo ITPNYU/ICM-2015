@@ -4,6 +4,7 @@ var diameter = 50;
 
 function setup() {
   createCanvas(400, 400);
+  fill(0);
 }
 
 function draw() {
