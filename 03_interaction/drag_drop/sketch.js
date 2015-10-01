@@ -1,6 +1,6 @@
 var x = 200;
 var y = 200;
-var diameter = 50;
+var diameter = 5;
 
 // this variable keeps track of whether circle should drag or not
 var dragging = false;
