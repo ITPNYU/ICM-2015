@@ -1,37 +1,42 @@
+// This empty example shows reading only
+
 // Declare a "SerialPort" object
 var serial;
 
-// First message
-var latestData = "waiting for data";
 
 function setup() {
-  createCanvas(400, 300);
+  createCanvas(600, 400);
 
   // Instantiate our SerialPort object
   serial = new p5.SerialPort();
 
   // Assuming our Arduino is connected, let's open the connection to it
   // Change this to the name of your arduino's serial port
-  serial.open("/dev/cu.usbmodem1411");
+  serial.open("/dev/cu.usbmodem1421");
 
   // if you need to see the list
   // serial.onList(gotList);
 
+  // This is a new concept!
+  // Whenever there is new data, the "gotData" function happens.
+  // This is called a *CALLBACK*
   serial.onData(gotData);
 }
 
-// There is data available to work with from the serial port
+// This happens when there is data
 function gotData() {
-  var currentString = serial.readLine(); // read the incoming string
-  latestData = currentString; // save it for the draw method
+  // Read the data as text (a string)!
+  var data = serial.readLine();
+  // Check to make sure something really came in
+  if (data.length > 0); {
+    // Look at the data
+    // Do something with it, like to another variable?
+    console.log(data);
+  }
 }
 
 function draw() {
-  background(0);
-  fill(255);
-  textAlign(CENTER);
-  textSize(24);
-  text(latestData, width/2, height/2);
+  // empty
 }
 
 
