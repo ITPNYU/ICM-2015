@@ -31,6 +31,8 @@ function setup() {
 function gotData() {
   // Read the data as text (a string)!
   var data = serial.readLine();
+  // if you don't get any data, quit this function:
+  if (!data) return;
   // Check to make sure something really came in
   if (data.length > 0); {
     // To use it as a number, the Number() function

@@ -32,14 +32,14 @@ function gotData() {
   // Read the data as text (a string)!
   var data = serial.readLine();
   // Check to make sure something really came in
-  if (data.length > 0); {
+  if (data.length > 0) {
     // Get the 0 or 1
     switchState = Number(data);
   }
 }
 
 function draw() {
-  
+
   // Do something based on whether
   // switch is on or off!
   if (switchState === 0) {
@@ -47,13 +47,13 @@ function draw() {
     fill(255);
     textAlign(CENTER);
     textSize(24);
-    text('OFF', width / 2, height -12);
+    text('OFF', width / 2, height - 12);
   } else if (switchState === 1) {
     background(255);
     fill(0);
     textAlign(CENTER);
     textSize(24);
-    text('ON', width / 2, height -12);
+    text('ON', width / 2, height - 12);
   }
 }
 
