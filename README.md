@@ -126,16 +126,18 @@
 
 ### 5 -- [Objects and Arrays](https://github.com/ITPNYU/ICM-2015/raw/master/05_objects_arrays/05_objects_arrays.zip)
 * [download examples](https://github.com/ITPNYU/ICM-2015/raw/master/05_objects_arrays/05_objects_arrays.zip)
-* Review object literals
+* Review object literals:
   * properties - name/value pairs
   * functions inside objects
   * `this` keyword
-* What is an array?
+* What is an array? [video tutorial 6.1](https://vimeo.com/141211396)
   * declaring, intializing
   * numeric indices
+  * arrays and for loops: [video tutorial 6.2](https://vimeo.com/141211394)
   * `length` property
-  * `push()`
-* An array of objects!
+* An array of objects! [video tutorial 6.3](https://vimeo.com/141211395)
+* Constructor function! [video tutorial 6.4](https://vimeo.com/141211393)
+* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392)
 
 ### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
 - **Meet in the ITP Lounge**
@@ -146,7 +148,9 @@
 
 ### 7 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
-- DOM elements
+- [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+- [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
+- DOM elements - [p5.dom reference](http://p5js.org/reference/#/libraries/p5.dom)
     - `createP()`
     - `createButton()` 
     - `createSlider()`
