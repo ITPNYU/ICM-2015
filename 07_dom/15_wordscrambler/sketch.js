@@ -1,10 +1,9 @@
-// ITP Networked Media, Fall 2014
+// ICM 2015
 // DOM Manipulation
-// https://github.com/shiffman/itp-networked-media
-// Daniel Shiffman
+// https://github.com/ITPNYU/ICM-2015
 
-// Let's look an example that messes with user input text
-// A ton more here!  https://github.com/shiffman/Programming-from-A-to-Z-F14
+// This uses string parsing which we'll cover more
+// specifically when we look at data
 
 // The scrambled text
 var scrambled = '';

@@ -1,3 +1,6 @@
+// ICM 2015
+// DOM Manipulation
+// https://github.com/ITPNYU/ICM-2015
 
 // create first sketch
 var s0 = function(p) {

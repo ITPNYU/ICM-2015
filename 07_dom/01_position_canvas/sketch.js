@@ -1,9 +1,6 @@
-// ITP Networked Media, Fall 2014
+// ICM 2015
 // DOM Manipulation
-// https://github.com/shiffman/itp-networked-media
-// Daniel Shiffman
-
-// These are adapted from https://github.com/lmccart/itp-creative-js
+// https://github.com/ITPNYU/ICM-2015
 
 function setup() {
   // Here we can store a reference to the canvas DOM element

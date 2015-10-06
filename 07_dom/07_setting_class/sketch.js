@@ -1,9 +1,6 @@
-// ITP Networked Media, Fall 2014
+// ICM 2015
 // DOM Manipulation
-// https://github.com/shiffman/itp-networked-media
-// Daniel Shiffman
-
-// These are adapted from https://github.com/lmccart/itp-creative-js
+// https://github.com/ITPNYU/ICM-2015
 
 // Three elements
 var elt0;
@@ -15,15 +12,15 @@ function setup() {
   noCanvas();
   
   // Three floating elements
-  elt0 = createDiv("Here's a div.");
-  elt1 = createDiv("Here's another div.");
-  elt2 = createDiv("Oh and even another one!");
+  elt0 = createP("Here's a paragraph.");
+  elt1 = createP("Here's another paragraph.");
+  elt2 = createP("Oh and even another one -- hover me!");
   
   // Let's give the first two elements class donkey, and the third class yogurt.
   elt0.class('donkey');
   elt1.class('donkey');
   elt2.class('yogurt');
-};
+}
 
 
 

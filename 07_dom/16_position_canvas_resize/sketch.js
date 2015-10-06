@@ -1,3 +1,7 @@
+// ICM 2015
+// DOM Manipulation
+// https://github.com/ITPNYU/ICM-2015
+
 var c;
 
 function setup() {

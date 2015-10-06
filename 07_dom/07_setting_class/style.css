@@ -10,11 +10,14 @@
 .yogurt {
   font-family: monospace; 
   font-size: 18pt; 
+  padding: 10px;
+  margin: 20px;
 }
 
 /* We're about to deal with events, but here's a quick way to get a mouse rollover with CSS */
 /* this is mostly used with a href */
 .yogurt:hover {
   margin: 20px;
-  background-color: #FF69B4; 
+  background-color: #FF69B4;
+  color: #FFF;
 }

@@ -1,9 +1,6 @@
-// ITP Networked Media, Fall 2014
+// ICM 2015
 // DOM Manipulation
-// https://github.com/shiffman/itp-networked-media
-// Daniel Shiffman
-
-// These are adapted from https://github.com/lmccart/itp-creative-js
+// https://github.com/ITPNYU/ICM-2015
 
 // Using p5 DOM element mouse listeners, mousePressed.
 
@@ -14,7 +11,7 @@ function setup() {
   createCanvas(400, 400);
   bg = color(51);
 
-  var link = createA("#","Click me");
+  var link = createA("#", "Click me");
   // The function changeBG becomes a callback for when the mouse is pressed
   // On this DOM element (different than mousePressed() anywhere on page)
   link.mousePressed(changeBG);
