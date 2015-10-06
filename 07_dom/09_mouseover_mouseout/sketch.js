@@ -22,9 +22,9 @@ function setup() {
   img = createImg("rainbow.png");
 
   // Here we call methods of DOM Image element to set the size and style.
-  // Note the use of "AUTO" to keep the aspect ration
-  img.size(200, AUTO);
+  img.size(200, 200);
   img.style("padding","10px");
+  img.hide();
    
   // Attach listeners for mouse events related to canvas
   canvas.mouseOver(uniShow);
