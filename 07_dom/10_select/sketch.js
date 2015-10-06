@@ -14,9 +14,9 @@ function setup() {
   noCanvas();
   // Instead of making the elements here we can just grab them 
   // via their id (see index.html)
-  apple = getElement('apple');
-  banana = getElement('banana');
-  pear = getElement('pear');
+  apple = select('#apple');
+  banana = select('#banana');
+  pear = select('#pear');
 }
 
 // Hide and show them depending on what key was pressed

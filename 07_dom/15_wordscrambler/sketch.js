@@ -16,15 +16,15 @@ function setup() {
   noCanvas();
   
   // Grab the text field
-  input = getElement('input');
+  input = select('#input');
 
   // A Grab the button
-  var go = getElement('button');
+  var go = select('#button');
   // Set up a function to handle when the button is pressed
   go.mousePressed(generate);
   
   // A paragraph element for the scrambled text
-  scrambled = getElement('scrambled');
+  scrambled = select('#scrambled');
 }
 
 function generate() {
