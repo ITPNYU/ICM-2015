@@ -1,4 +1,4 @@
-/*! p5.dom.js v0.2.2 May 30, 2015 */
+/*! p5.dom.js v0.2.4 October 6, 2015 */
 /**
  * <p>The web is much more than just canvas and p5.dom makes it easy to interact
  * with other HTML5 objects, including text, hyperlink, image, input, video,
@@ -16,7 +16,7 @@
  * <a href="http://p5js.org/download">p5 complete</a> or you can download the single file
  * <a href="https://raw.githubusercontent.com/lmccart/p5.js/master/lib/addons/p5.dom.js">
  * here</a>.</p>
- * <p>See <a href="https://github.com/processing/p5.js/wiki/Beyond-the-canvas">tutorial: beyond the canvas]</a>
+ * <p>See <a href="https://github.com/processing/p5.js/wiki/Beyond-the-canvas">tutorial: beyond the canvas</a>
  * for more info on how to use this libary.</a>
  *
  * @module p5.dom
@@ -211,11 +211,14 @@
   p5.prototype.createImg = function() {
     var elt = document.createElement('img');
     var args = arguments;
-    var self = {};
+    var self;
     var setAttrs = function(){
-      self.width = elt.width;
-      self.height = elt.height;
-      if (args.length === 3 && typeof args[2] === 'function'){
+      self.width = elt.offsetWidth;
+      self.height = elt.offsetHeight;
+      if (args.length > 1 && typeof args[1] === 'function'){
+        self.fn = args[1];
+        self.fn();
+      }else if (args.length > 1 && typeof args[2] === 'function'){
         self.fn = args[2];
         self.fn();
       }
@@ -224,12 +227,8 @@
     if (args.length > 1 && typeof args[1] === 'string'){
       elt.alt = args[1];
     }
-    if (elt.complete){
+    elt.onload = function(){
       setAttrs();
-    }else{
-      elt.onload = function(){
-        setAttrs();
-      }
     }
     self = addElement(elt, this);
     return self;
@@ -276,7 +275,7 @@
     elt.min = min;
     elt.max = max;
     if (step) elt.step = step;
-    if (value) elt.value = value;
+    if (typeof(value) === "number") elt.value = value;
     return addElement(elt, this);
   };
 
@@ -450,9 +449,9 @@
             };
           };
           
-          // Text of data?
+          // Text or data?
           // This should likely be improved
-          if (f.type === 'text') {
+          if (f.type.indexOf('text') > -1) {
             reader.readAsText(f);
           } else {
             reader.readAsDataURL(f);
@@ -576,7 +575,7 @@
    *                                    stream has loaded
    * @return {Object/p5.Element} capture video p5.Element
    * @example
-   * <div><class='norender'><code>
+   * <div class='norender'><code>
    * var capture;
    *
    * function setup() {
@@ -589,7 +588,7 @@
    *   filter(INVERT);
    * }
    * </code></div>
-   * <div><class='norender'><code>
+   * <div class='norender'><code>
    * function setup() {
    *   createCanvas(480, 120);
    *   var constraints = {
@@ -1048,7 +1047,7 @@
           this.width = aW;
           this.height = aH;
         }
-        this.elt.style.overflow = 'hidden';
+        
         this.width = this.elt.offsetWidth;
         this.height = this.elt.offsetHeight;
 

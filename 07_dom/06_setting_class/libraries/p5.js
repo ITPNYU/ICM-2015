@@ -1,4 +1,4 @@
-/*! p5.js v0.4.14 October 05, 2015 */
+/*! p5.js v0.4.15 October 06, 2015 */
 (function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.p5 = f()}})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(_dereq_,module,exports){
 
 },{}],2:[function(_dereq_,module,exports){
@@ -13237,7 +13237,7 @@ p5.Element = function(elt, pInst) {
  *
  * Attaches the element to the parent specified. A way of setting
  * the container for the element. Accepts either a string ID, DOM
- * node, or p5.Element.
+ * node, or p5.Element. If no arguments given, parent node is returned.
  *
  * @method parent
  * @param  {String|Object} parent the ID, DOM node, or p5.Element
@@ -13269,13 +13269,17 @@ p5.Element = function(elt, pInst) {
  * </code></div>
  */
 p5.Element.prototype.parent = function(p) {
-  if (typeof p === 'string') {
-    p = document.getElementById(p);
-  } else if (p instanceof p5.Element) {
-    p = p.elt;
+  if (arguments.length === 0){
+    return this.elt.parentNode;
+  } else {
+    if (typeof p === 'string') {
+      p = document.getElementById(p);
+    } else if (p instanceof p5.Element) {
+      p = p.elt;
+    }
+    p.appendChild(this.elt);
+    return this;
   }
-  p.appendChild(this.elt);
-  return this;
 };
 
 /**
@@ -13433,16 +13437,33 @@ p5.Element.prototype.mouseOver = function (fxn) {
 
 
 /**
- * The .changed() function is called when the value of an element is changed.
+ * The .changed() function is called when the value of an
+ * element is changed.
  * This can be used to attach an element specific event listener.
  *
  * @method changed
- * @param  {Function} fxn function to be fired when mouse is
- *                    moved over the element.
+ * @param  {Function} fxn function to be fired when the value of an
+ * element changes.
  * @return {p5.Element}
  */
 p5.Element.prototype.changed = function (fxn) {
   attachListener('change', fxn, this);
+  return this;
+};
+
+/**
+ * The .input() function is called when any user input is
+ * detected with an element. The input event is often used
+ * to detect keystrokes in a input element, or changes on a
+ * slider element. This can be used to attach an element specific
+ * event listener.
+ *
+ * @method input
+ * @param  {Function} fxn function to be fired on user input.
+ * @return {p5.Element}
+ */
+p5.Element.prototype.input = function (fxn) {
+  attachListener('input', fxn, this);
   return this;
 };
 
@@ -15787,17 +15808,17 @@ p5.prototype.loop = function() {
 p5.prototype.push = function () {
   this._renderer.push();
   this._styles.push({
-    doStroke: this._renderer._doStroke,
-    doFill: this._renderer._doFill,
-    tint: this._renderer._tint,
-    imageMode: this._renderer._imageMode,
-    rectMode: this._renderer._rectMode,
-    ellipseMode: this._renderer._ellipseMode,
-    colorMode: this._renderer._colorMode,
-    textFont: this._renderer._textFont,
-    textLeading: this._renderer._textLeading,
-    textSize: this._renderer._textSize,
-    textStyle: this._renderer._textStyle
+    _doStroke: this._renderer._doStroke,
+    _doFill: this._renderer._doFill,
+    _tint: this._renderer._tint,
+    _imageMode: this._renderer._imageMode,
+    _rectMode: this._renderer._rectMode,
+    _ellipseMode: this._renderer._ellipseMode,
+    _colorMode: this._renderer._colorMode,
+    _textFont: this._renderer._textFont,
+    _textLeading: this._renderer._textLeading,
+    _textSize: this._renderer._textSize,
+    _textStyle: this._renderer._textStyle
   });
 };
 
@@ -19681,7 +19702,7 @@ _dereq_('../core/error_helpers');
 p5.prototype.loadImage = function(path, successCallback, failureCallback) {
   var img = new Image();
   var pImg = new p5.Image(1, 1, this);
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   img.onload = function() {
     pImg.width = pImg.canvas.width = img.width;
@@ -21040,12 +21061,12 @@ _dereq_('../core/error_helpers');
  * only be used in loadX() functions.
  * @private
  */
-p5._getDecrementPreload = function (args) {
+p5._getDecrementPreload = function (args, this_p5) {
   var decrementPreload = args[args.length - 1];
 
   // when in preload decrementPreload will always be the last arg as it is set
   // with args.push() before invocation in _wrapPreload
-  if (((this && this.preload) || window.preload) &&
+  if (((this_p5 && this_p5.preload) || window.preload) &&
     typeof decrementPreload === 'function') {
     return decrementPreload;
   }
@@ -21109,7 +21130,7 @@ p5._getDecrementPreload = function (args) {
 p5.prototype.loadFont = function(path, onSuccess, onError) {
 
   var p5Font = new p5.Font(this);
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   opentype.load(path, function(err, font) {
 
@@ -21216,7 +21237,7 @@ p5.prototype.loadBytes = function() {
 p5.prototype.loadJSON = function() {
   var path = arguments[0];
   var callback = arguments[1];
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   var ret = []; // array needed for preload
   // assume jsonp for URLs
@@ -21312,7 +21333,7 @@ p5.prototype.loadJSON = function() {
 p5.prototype.loadStrings = function (path, callback) {
   var ret = [];
   var req = new XMLHttpRequest();
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   req.addEventListener('error', function () {
     console.log('An error occurred loading strings: ' + path);
@@ -21427,7 +21448,7 @@ p5.prototype.loadTable = function (path) {
   var header = false;
   var sep = ',';
   var separatorSet = false;
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   for (var i = 1; i < arguments.length; i++) {
     if ((typeof(arguments[i]) === 'function') &&
@@ -21655,7 +21676,7 @@ function makeObject(row, headers) {
  */
 p5.prototype.loadXML = function(path, callback) {
   var ret = document.implementation.createDocument(null, null);
-  var decrementPreload = p5._getDecrementPreload(arguments);
+  var decrementPreload = p5._getDecrementPreload(arguments, this);
 
   reqwest({
     url: path,
