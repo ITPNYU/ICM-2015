@@ -146,7 +146,8 @@
 - Serial input with a callback workshop
 - "One button experience" exercise
 
-### 7 -- DOM: events and callback function
+### 7 -- [DOM: events and callback function](https://github.com/ITPNYU/ICM-2015/raw/master/07_dom/07_dom.zip)
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/07_dom/07_dom.zip)
 - Review events -- mousePressed, keyPressed
 - [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 - [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
