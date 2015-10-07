@@ -1,4 +1,4 @@
-/*! p5.dom.js v0.2.4 October 6, 2015 */
+/*! p5.dom.js v0.2.2 May 30, 2015 */
 /**
  * <p>The web is much more than just canvas and p5.dom makes it easy to interact
  * with other HTML5 objects, including text, hyperlink, image, input, video,
@@ -211,14 +211,11 @@
   p5.prototype.createImg = function() {
     var elt = document.createElement('img');
     var args = arguments;
-    var self;
+    var self = {};
     var setAttrs = function(){
-      self.width = elt.offsetWidth;
-      self.height = elt.offsetHeight;
-      if (args.length > 1 && typeof args[1] === 'function'){
-        self.fn = args[1];
-        self.fn();
-      }else if (args.length > 1 && typeof args[2] === 'function'){
+      self.width = elt.width;
+      self.height = elt.height;
+      if (args.length === 3 && typeof args[2] === 'function'){
         self.fn = args[2];
         self.fn();
       }
@@ -227,8 +224,12 @@
     if (args.length > 1 && typeof args[1] === 'string'){
       elt.alt = args[1];
     }
-    elt.onload = function(){
+    if (elt.complete){
       setAttrs();
+    }else{
+      elt.onload = function(){
+        setAttrs();
+      }
     }
     self = addElement(elt, this);
     return self;
@@ -275,7 +276,7 @@
     elt.min = min;
     elt.max = max;
     if (step) elt.step = step;
-    if (typeof(value) === "number") elt.value = value;
+    if (value) elt.value = value;
     return addElement(elt, this);
   };
 
@@ -1047,7 +1048,7 @@
           this.width = aW;
           this.height = aH;
         }
-        
+        this.elt.style.overflow = 'hidden';
         this.width = this.elt.offsetWidth;
         this.height = this.elt.offsetHeight;
 
