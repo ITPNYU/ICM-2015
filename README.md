@@ -176,19 +176,18 @@
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 - Data Assignment (#1)
-  -  This week and the next two weeks are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete all assignments but only 1/3rd will present each week.   
-
-### 9 -- Mobile
-- Workflow and process, get a previous sketch running on a device
-- Touch interaction
-- Sensors
-- Mobile Assignment (#2)
+  -  This week and next are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete each assignment but only 1/2 will present each week.   
 
 ### 10 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
-- Video Assignment (#3)
+- Video Assignment
+
+### 9 -- Mobile
+- Workflow and process, get a previous sketch running on a device
+- Touch interaction
+- Sensors
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 ### 11 -- Revelation + Final Project Proposals
