@@ -162,7 +162,7 @@
 - Callbacks
     - `button.mousePressed(callback);` 
 - `style()` -- low key intro to CSS
-- Homework: TBA, do something with DOM, compare interface elements to how you did your own week 3
+- [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 
 
