@@ -137,7 +137,11 @@
   * `length` property
 * An array of objects! [video tutorial 6.3](https://vimeo.com/141211395)
 * Constructor function! [video tutorial 6.4](https://vimeo.com/141211393)
-* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392)
+* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392), [video tutorial 6.8](https://vimeo.com/141919523)
+* Multiple JS files [video tutorial 6.6](https://vimeo.com/141919522)
+* Clicking on objects [video tutorial 6.7](https://vimeo.com/141919520)
+* Checking objects intersecting with other objects [video tutorial 6.9](), [video tutorial 6.10](https://vimeo.com/141919521)
+* loading images for objects [video tutorial 6.11](https://vimeo.com/141919525)
 
 ### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
 - **Meet in the ITP Lounge**
