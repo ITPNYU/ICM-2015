@@ -137,7 +137,11 @@
   * `length` property
 * An array of objects! [video tutorial 6.3](https://vimeo.com/141211395)
 * Constructor function! [video tutorial 6.4](https://vimeo.com/141211393)
-* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392)
+* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://vimeo.com/141211392), [video tutorial 6.8](https://vimeo.com/141919523)
+* Multiple JS files [video tutorial 6.6](https://vimeo.com/141919522)
+* Clicking on objects [video tutorial 6.7](https://vimeo.com/141919520)
+* Checking objects intersecting with other objects [video tutorial 6.9](), [video tutorial 6.10](https://vimeo.com/141919521)
+* loading images for objects [video tutorial 6.11](https://vimeo.com/141919525)
 
 ### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
 - **Meet in the ITP Lounge**
@@ -158,7 +162,7 @@
 - Callbacks
     - `button.mousePressed(callback);` 
 - `style()` -- low key intro to CSS
-- Homework: TBA, do something with DOM, compare interface elements to how you did your own week 3
+- [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 
 
@@ -172,19 +176,18 @@
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 - Data Assignment (#1)
-  -  This week and the next two weeks are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete all assignments but only 1/3rd will present each week.   
-
-### 9 -- Mobile
-- Workflow and process, get a previous sketch running on a device
-- Touch interaction
-- Sensors
-- Mobile Assignment (#2)
+  -  This week and next are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete each assignment but only 1/2 will present each week.   
 
 ### 10 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
-- Video Assignment (#3)
+- Video Assignment
+
+### 9 -- Mobile
+- Workflow and process, get a previous sketch running on a device
+- Touch interaction
+- Sensors
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 ### 11 -- Revelation + Final Project Proposals
