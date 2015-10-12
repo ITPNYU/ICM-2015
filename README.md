@@ -165,18 +165,14 @@
 - [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 
-
 ### 8 -- Data
-- arrays
+- [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
-- Serial with strings
 - Optional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-- Data Assignment (#1)
-  -  This week and next are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete each assignment but only 1/2 will present each week.   
 
 ### 10 -- Video and Sound
 - Sound
