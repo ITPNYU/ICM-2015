@@ -165,8 +165,10 @@
 - [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 
-### 8 -- Data
+### 8 -- [Data](https://github.com/ITPNYU/ICM-2015/raw/master/08_data/08_data.zip)
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/08_data/08_data.zip)
 - [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+- [Tutorial: more about data and APIs](http://shiffman.github.io/A2Z-F15/week4/notes.html)
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
