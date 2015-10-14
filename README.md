@@ -176,13 +176,13 @@
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
-### 10 -- Video and Sound
+### 9 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
 - Video Assignment
 
-### 9 -- Mobile
+### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
