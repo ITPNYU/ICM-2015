@@ -165,26 +165,24 @@
 - [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 
-
-### 8 -- Data
-- arrays
+### 8 -- [Data](https://github.com/ITPNYU/ICM-2015/raw/master/08_data/08_data.zip)
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/08_data/08_data.zip)
+- [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+- [Tutorial: more about data and APIs](http://shiffman.github.io/A2Z-F15/week4/notes.html)
 - JSON and APIs (and more on callbacks!)
 - Word Counting
 - Tabular data
-- Serial with strings
 - Optional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
-- Data Assignment (#1)
-  -  This week and next are mini-projects that you can consider trial runs for a final project.  They can be small sketches that form a tiny component of a larger idea.  Each student will complete each assignment but only 1/2 will present each week.   
 
-### 10 -- Video and Sound
+### 9 -- Video and Sound
 - Sound
 - Live capture
 - Movie playback
 - Video Assignment
 
-### 9 -- Mobile
+### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors

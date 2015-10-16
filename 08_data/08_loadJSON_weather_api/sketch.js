@@ -8,8 +8,9 @@ function preload() {
 }
 
 function setup() {
+  noCanvas();
   var temp = getTemp(weatherData);
-  print(temp);
+  createP("The temperature is: " + temp);
 }
 
 function getTemp(data) {

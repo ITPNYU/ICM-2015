@@ -8,9 +8,10 @@ function preload() {
 }
 
 function setup() {
+  noCanvas();
   var title = film.title;
   var dir = film.director;
   var year = film.year;
   var rating = film.rating;
-  print(title + " by " + dir + ", " + year + ". Rating: " + rating);
+  createP(title + " by " + dir + ", " + year + ". Rating: " + rating);
 }
