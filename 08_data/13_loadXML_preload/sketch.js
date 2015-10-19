@@ -7,7 +7,7 @@ function setup() {
 
   loadXML("data.xml", drawData);
 }
-
+var test;
 function drawData(data) {
 
   console.log(data);
@@ -15,7 +15,6 @@ function drawData(data) {
   var foods = data.getElementsByTagName("food");
   console.log(foods)
   for (var i=0; i<foods.length; i++) {
-
     var nameNode = foods[i].getElementsByTagName("name")[0];
     var name = nameNode.innerHTML;
     console.log(name);
