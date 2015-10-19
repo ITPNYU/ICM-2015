@@ -7,7 +7,7 @@ function setup() {
 
   loadXML("data.xml", drawData);
 }
-var test;
+
 function drawData(data) {
 
   console.log(data);
