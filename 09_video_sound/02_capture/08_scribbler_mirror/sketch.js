@@ -15,9 +15,12 @@ function setup() {
   // Start x and y in the center
   x = width/2;
   y = height/2;
+
+  // Fix for retina computers
   devicePixelScaling(false);
+
   video = createCapture(VIDEO);
-  video.size(width,height);
+  video.size(width, height);
   // The above function actually makes a separate video
   // element on the page.  The line below hides it since we are
   // drawing the video to the canvas
@@ -44,7 +47,7 @@ function draw() {
   strokeWeight(4);
   line(x, y, newx, newy);
 
-  // We save the new location in (x,y) in order to start the process over again.
+  // Save the new location in (x,y) in order to start the process over again.
   x = newx; 
   y = newy;
 }

@@ -1,16 +1,26 @@
+// Just play a video
+
+// Is it playing?
 var playing = false;
+
+// Video
 var fingers;
+
+// Button
 var button;
 
-
 function setup() {
-  // specify multiple formats for different browsers
+  noCanvas();
+
+  // Create a video element
   fingers = createVideo('fingers.mov');
+
+  // Create button and set callback
   button = createButton('play');
   button.mousePressed(toggleVid); // attach button listener
 }
 
-// plays or pauses the video depending on current state
+// Plays or pauses the video depending on current state
 function toggleVid() {
   if (playing) {
     fingers.pause();

@@ -2,7 +2,7 @@ var fingers;
 
 function setup() {
   createCanvas(320, 240);
-  // specify multiple formats for different browsers
+  // Make the video element but don't show it
   fingers = createVideo('fingers.mov');
   fingers.loop();
   fingers.hide();
@@ -13,6 +13,8 @@ function setup() {
 function draw() {
   background(255);
   fingers.loadPixels();
+
+  // Look at all the pixels of the video and draw a circle based on brightness
   var stepSize = round(constrain(mouseX / 8, 6, 32));
   for (var y=0; y<height; y+=stepSize) {
     for (var x=0; x<width; x+=stepSize) {

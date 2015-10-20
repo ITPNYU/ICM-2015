@@ -27,7 +27,7 @@ function draw() {
   strokeWeight(4);
   line(x, y, newx, newy);
 
-  // We save the new location in (x,y) in order to start the process over again.
+  // Save the new location in (x,y) in order to start the process over again.
   x = newx; 
   y = newy;
 }

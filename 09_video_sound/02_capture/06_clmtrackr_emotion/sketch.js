@@ -1,3 +1,5 @@
+// For more: https://github.com/auduno/clmtrackr
+
 var ctracker;
 var emotionData;
 var ec;

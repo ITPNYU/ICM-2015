@@ -26,13 +26,16 @@ function setup() {
 
 function draw() {
   
+  video.loadPixels();
+
+  // Draw ten dots per frame
   for (var i = 0; i < 10; i++) {
 
     // Pick a random point
     var x = floor(random(video.width));
     var y = floor(random(video.height));
 
-    video.loadPixels();
+    // Grab a color from a pixel
     var col = video.get(x, y);
     
     // Back to shapes! Instead of setting a pixel, we use the color 
