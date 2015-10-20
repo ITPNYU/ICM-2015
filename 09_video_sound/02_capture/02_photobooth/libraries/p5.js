@@ -11578,9 +11578,9 @@ var p5 = function(sketch, node, sync) {
   if (window.DeviceOrientationEvent) {
     this._events.deviceorientation = null;
   }
-  if (window.DeviceMotionEvent && !window._isNodeWebkit) {
-    this._events.devicemotion = null;
-  }
+  // if (window.DeviceMotionEvent && !window._isNodeWebkit) {
+  //   this._events.devicemotion = null;
+  // }
 
   //FF doesn't recognize mousewheel as of FF3.x
   if (/Firefox/i.test(navigator.userAgent)) {
