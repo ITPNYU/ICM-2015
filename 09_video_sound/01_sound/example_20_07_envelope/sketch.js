@@ -1,3 +1,8 @@
+// Learning Processing
+// Daniel Shiffman
+// http://www.learningprocessing.com
+
+// Example 20-7: Envelope and notes
 
 var osc;
 
