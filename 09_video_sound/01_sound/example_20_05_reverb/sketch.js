@@ -13,7 +13,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(200, 200);
+  noCanvas();
+  createP('Listen to the reverb!');
 
 
   reverb = new p5.Reverb();
@@ -23,9 +24,7 @@ function setup() {
 
   // Loop the sound forever
   // (well, at least until stop() is called)
-  song.play();
   song.loop();
 
-  noLoop();
 }
 

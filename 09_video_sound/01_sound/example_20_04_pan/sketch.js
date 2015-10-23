@@ -16,7 +16,6 @@ function setup() {
 
   // Loop the sound forever
   // (well, at least until stop() is called)
-  song.play();
   song.loop();
 }
 
