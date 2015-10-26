@@ -12,7 +12,6 @@ var slider;
 
 function setup() {
   createCanvas(640, 480);
-  devicePixelScaling(false);
 
   slider = createSlider(4, 64, 16);
 

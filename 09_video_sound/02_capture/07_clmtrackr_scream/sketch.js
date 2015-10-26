@@ -23,8 +23,6 @@ function setup() {
 
   mouthSound.loop();
   mouthSound.setVolume(0);
-
-
 }
 
 function draw() {
