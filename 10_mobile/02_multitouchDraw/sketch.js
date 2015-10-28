@@ -27,3 +27,8 @@ function draw() {
     ellipse(touches[i].x, touches[i].y, 24, 24);
   }
 }
+
+// this prevents dragging screen around
+function touchMoved() {
+  return false;
+}
