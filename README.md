@@ -185,10 +185,14 @@
 - Movie playback
 - Video Assignment
 
-### 10 -- Mobile
+### 10 -- [Mobile](https://github.com/ITPNYU/ICM-2015/raw/master/10_mobile/10_mobile.zip)
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
+- [More mobile examples from Jia](https://github.com/OhJia/p5MobileWebExamples)
+- [p5 mobile workflows by Jia](https://github.com/OhJia/p5Mobile/wiki/Workflows)
+- [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+- [Hammer.js](http://hammerjs.github.io/)
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 ### 11 -- Revelation + Final Project Proposals
