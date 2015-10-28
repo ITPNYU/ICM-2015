@@ -186,6 +186,7 @@
 - Video Assignment
 
 ### 10 -- [Mobile](https://github.com/ITPNYU/ICM-2015/raw/master/10_mobile/10_mobile.zip)
+- [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/10_mobile/10_mobile.zip)
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
