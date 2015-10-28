@@ -176,7 +176,7 @@
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp 
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
-### 9 -- [Video and Sound]((https://github.com/ITPNYU/ICM-2015/raw/master/09_video_sound/09_video_sound.zip))
+### 9 -- [Video and Sound](https://github.com/ITPNYU/ICM-2015/raw/master/09_video_sound/09_video_sound.zip)
 - [Download all examples](https://github.com/ITPNYU/ICM-2015/raw/master/09_video_sound/09_video_sound.zip)
 - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
 - [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
