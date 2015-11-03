@@ -196,20 +196,23 @@
 - [Hammer.js](http://hammerjs.github.io/)
 - Homework: Prepare a final project proposal.  See you section's wiki.
 
-### 11 -- Revelation + Final Project Proposals
+### 11 -- Other Topics + Final Project Proposals
+- **See your individual section's proposal schedule on your wiki**
+- Possible topics
+   - more on pixels
+   - more on data
+   - setTimeout, setInterval
+   - webgl
+   
+### 12 -- Beyond p5.js + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
 - moving out of the IDE
 - HTML/CSS itself
 - other JavaScript frameworks: jquery, d3, etc.
+- what is server side programming for?
 - Open source
   - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
   - How do you  get involved with this?
-
-### 12 -- Other topics? + Final Project Proposals
-- **See your individual section's proposal schedule on your wiki**
-- Other bonus topics?
-   - webgl 
-   - What is server side programming?
 
 ### 13 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
