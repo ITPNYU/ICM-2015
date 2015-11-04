@@ -202,12 +202,13 @@
    - more on pixels
    - more on data
    - setTimeout, setInterval
-   - webgl
+   - WebGL - [tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
    
 ### 12 -- Beyond p5.js + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
 - moving out of the IDE
-- HTML/CSS itself
+- [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+- [HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
 - other JavaScript frameworks: jquery, d3, etc.
 - what is server side programming for?
 - Open source
