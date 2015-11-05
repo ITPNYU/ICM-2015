@@ -4,7 +4,7 @@
 // added for mobile viewing
 
 function setup() {
-  createCanvas(windowWidth, windowWidth);
+  createCanvas(windowWidth, windowHeight);
   setShakeThreshold(50);
   colorMode(HSB);
   background(0);

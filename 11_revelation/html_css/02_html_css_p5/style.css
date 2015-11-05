@@ -1,0 +1,18 @@
+
+body {
+  background: purple;
+  font-size: 18px;
+}
+
+#description {
+  font-family: times;
+  background: black;
+  color: white;
+  padding: 10px;
+  width: 200px;
+}
+
+#p5-container {
+  text-align: center;
+  margin-top: 100px;
+}

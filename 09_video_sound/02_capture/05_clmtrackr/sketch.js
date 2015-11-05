@@ -7,7 +7,7 @@ function setup() {
   var videoInput = createCapture(VIDEO);
   videoInput.size(400, 300);
   videoInput.position(0, 0);
-  videoInput.hide();
+  //videoInput.hide();
 
   // setup canvas
   var cnv = createCanvas(400, 300);
