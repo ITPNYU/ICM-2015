@@ -3,6 +3,7 @@ function setup() {
 }
 
 function draw() {
+  orbitControl();
   background(0);
   //draws a box of width: 10, height: 20, and depth: 30
   box(30, 50, 50);

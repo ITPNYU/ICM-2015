@@ -3,6 +3,7 @@ function setup() {
 }
 
 function draw() {
+  orbitControl();
   background(0);
   for (var i = 0; i < 500; i += 100) {
     push();
