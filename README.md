@@ -213,6 +213,7 @@
   - [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
   - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
   - What is server side programming for?
+  - [Processing](http://processing.org)
   - Open source
     - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
   - How do you  get involved with this?
