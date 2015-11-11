@@ -206,13 +206,16 @@
    
 ### 12 -- Beyond p5.js + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
-- moving out of the IDE
-- [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
-- [HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
-- other JavaScript frameworks: jquery, d3, etc.
-- what is server side programming for?
-- Open source
-  - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
+- Life beyond p5.js
+  - Take ICM into the spring semester courses 
+  - Other JS libraries?
+  - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server))
+  - [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+  - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
+  - What is server side programming for?
+  - [Processing](http://processing.org)
+  - Open source
+    - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc? 
   - How do you  get involved with this?
 
 ### 13 -- One on one speed user testing / feedback
