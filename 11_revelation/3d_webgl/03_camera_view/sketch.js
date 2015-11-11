@@ -1,5 +1,3 @@
-var rot = 0;
-
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
 }
